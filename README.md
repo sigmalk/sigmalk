@@ -7,9 +7,9 @@
 <p align="center">
 <a href="https://codepen.io/sigmalk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sigmalk" height="30" width="40" /></a>
 <a href="https://dev.to/sigmalk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sigmalk" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/liantsoa kanto razafindravelona" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="liantsoa kanto razafindravelona" height="30" width="40" /></a>
-<a href="https://kaggle.com/liantsoa kanto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="liantsoa kanto" height="30" width="40" /></a>
-<a href="https://fb.com/liantsoa kanto razafindravelona" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="liantsoa kanto razafindravelona" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/liantsoa-kanto-razafindravelona" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="liantsoa kanto razafindravelona" height="30" width="40" /></a>
+<a href="https://kaggle.com/liantsoak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="liantsoa kanto" height="30" width="40" /></a>
+<a href="https://fb.com/Liantsoa.k.me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="liantsoa kanto razafindravelona" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">⚙️Languages and Tools:</h3>
