@@ -31,10 +31,6 @@
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sigmalk&show_icons=true&theme=algolia&border_radius=20)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sigmalk&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
-  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sigmalk)  
-
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=sigmalk&count_private=true&theme=algolia&border_radius=20)  
 
