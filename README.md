@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Liantsoa</h1>
+<h1 align="center">Hi 👋, I'm Liantsoa Kanto</h1>
 <h3 align="center">📌I am a student in Mathematics and Computer Science at the University of Antananarivo.📐</h3>
 
 - 📫 How to reach me **rzflkanto@gmail.com**
