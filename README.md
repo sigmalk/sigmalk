@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Liantsoa Kanto</h1>
-<h3 align="center">📌I am a student in Mathematics and Computer Science at the University of Antananarivo.📐</h3>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Liantsoa+Kanto;" />
+</h1>
+<h3 align="center">📌 Student in Mathematics and Computer Science at the University of Antananarivo.📐</h3>
 
 - 📫 How to reach me **rzflkanto@gmail.com**
 
@@ -32,5 +34,4 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sigmalk&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=sigmalk&count_private=true&theme=algolia&border_radius=20)  
 </div>
