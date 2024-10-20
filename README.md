@@ -32,6 +32,5 @@
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sigmalk&show_icons=true&theme=algolia&border_radius=20)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sigmalk&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
 
 </div>
