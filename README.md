@@ -31,7 +31,6 @@
 
 <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=sigmalk&count_private=true&theme=react&border_radius=7" alt="streak stats"/>
 <br>
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sigmalk&show_icons=true&theme=algolia&border_radius=20)
-
+<img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=sigmalk&show_icons=true&theme=algolia&border_radius=20" alt="most languages"/>
 
 </div>
