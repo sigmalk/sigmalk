@@ -24,9 +24,6 @@
 </div >
 <br>
 <h2 style="color: #44AEFB">📊 Statistics</h2>
-
-![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
-
 <div class="stats" align="center">
 
 <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=sigmalk&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
